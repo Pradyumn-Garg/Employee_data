@@ -1,0 +1,65 @@
+{
+    "Users": [
+        {
+            "id":1,
+            "userId": "abc1",
+            "companyRole": "Full Stack Developer",
+            "firstName": "Pradyumn",
+            "lastName": "Garg",
+            "preferredFullName": "Pradyumn Garg",
+            "emailAddress": "pradyumngarg@gmail.com",
+            "password": "sdfwefC",
+            "country": "India",
+            "phoneNumber": "408-1234567"
+            
+        },
+        {
+            "id":2,
+            "userId": "abc2",
+            "companyRole": "Back End Developer",
+            "firstName": "Aung",
+            "lastName": "Suki",
+            "preferredFullName": "Aung Suki",
+            "emailAddress": "aungsuki@gmail.com",
+            "password": "ecevqec",
+            "country": "China",
+            "phoneNumber": "408-1237567"
+        },
+        {
+            "id":3,
+            "userId": "abc3",
+            "companyRole": "Front End Developer",
+            "firstName": "Abigail",
+            "lastName": "Henry",
+            "preferredFullName": "Abigail Henry",
+            "emailAddress": "abigailhenry@gmail.com",
+            "password": "erbhymatn",
+            "country": "America",
+            "phoneNumber": "408-1934567"
+        },
+        {
+            "id":4,
+            "userId": "abc4",
+            "companyRole": "Tester",
+            "firstName": "Rahul",
+            "lastName": "Roy",
+            "preferredFullName": "Rahul Roy",
+            "emailAddress": "rahulroy@gmail.com",
+            "password": "wewrbrw",
+            "country": "India",
+            "phoneNumber": "428-1234567"
+        },
+        {
+            "id":5,
+            "userId": "abc5",
+            "companyRole": "Front End Developer",
+            "firstName": "Nam",
+            "lastName": "Ra",
+            "preferredFullName": "Nam Ra",
+            "emailAddress": "namra@gmail.com",
+            "password": "rnygdsgrw",
+            "country": "China",
+            "phoneNumber": "408-5234567"
+        }
+    ]
+}
